@@ -1,0 +1,12 @@
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\bin\Debug\LeshaScreenshot.exe.config
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\bin\Debug\LeshaScreenshot.exe
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\bin\Debug\LeshaScreenshot.pdb
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\obj\Debug\LeshaScreenshot.csproj.AssemblyReference.cache
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\obj\Debug\LeshaScreenshot.Form1.resources
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\obj\Debug\LeshaScreenshot.Properties.Resources.resources
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\obj\Debug\LeshaScreenshot.screenshot.resources
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\obj\Debug\LeshaScreenshot.csproj.GenerateResource.cache
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\obj\Debug\LeshaScreenshot.csproj.CoreCompileInputs.cache
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\obj\Debug\LeshaScreenshot.exe
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\obj\Debug\LeshaScreenshot.pdb
+C:\Users\1710\Desktop\LeshaScreenshot\LeshaScreenshot\LeshaScreenshot\obj\Debug\LeshaScreenshot.exe.config
